@@ -1,0 +1,36 @@
+img.product
+{
+    width:300px;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar > .container .navbar-brand {
+margin-right: 15px;
+color:#fff;
+}
+
+.navbar-inverse
+{
+    margin-bottom: 40px;
+}
+
+.nav-list, .jumbotron {
+    background-color:#f9f9f9;
+}
+
+.jumbotron
+{
+    margin-top: -40px;
+}
+
+tr div.col-lg-10 {
+    padding-left:0px; 
+}
+
+.inline
+{
+    display:inline-block;
+}
